@@ -241,14 +241,12 @@ Production sites delivered for real businesses — from first commit to live dep
 
 <br /><br />
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=arpitshagra&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=12"
-/>
+
 
 </div>
 
 <br />
----
+
 
 ## &nbsp;✦ &nbsp;Currently Learning
 
