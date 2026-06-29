@@ -211,26 +211,16 @@ Production sites delivered for real businesses — from first commit to live dep
 
 ---
 
-## &nbsp;✦ &nbsp;GitHub Activity
+## ✦ GitHub Activity
 
 <br />
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=arpitshagra&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitshagra&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=arpitshagra&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=arpitshagra&theme=react&hide_border=true"
+/>
 
 <br /><br />
 
@@ -251,20 +241,13 @@ Production sites delivered for real businesses — from first commit to live dep
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpitshagra&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=arpitshagra&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=12"
+/>
 
 </div>
 
 <br />
-
 ---
 
 ## &nbsp;✦ &nbsp;Currently Learning
