@@ -261,7 +261,7 @@ Production sites delivered for real businesses — from first commit to live dep
 <div align="center">
 
 | Area | What I'm Focusing On |
-|:--|:--|:--|
+|:--|:--|
 | 🔢 &nbsp; **DSA** | Arrays, Trees, Graphs, Dynamic Programming
 | 🌐 &nbsp; **MERN** | MongoDB · Express · React · Node.js 
 | 🤖 &nbsp; **LLMs** | Prompt Engineering · RAG · Fine-tuning concepts
