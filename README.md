@@ -158,7 +158,7 @@ IntervIQ conducts **realistic, recruiter-like interviews** using conversational 
 
 <br />
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitshagra)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/a](https://github.com/arpitshagra/voice_interview_bot))
 
 </td>
 </tr>
@@ -262,9 +262,9 @@ Production sites delivered for real businesses — from first commit to live dep
 
 | Area | What I'm Focusing On | Progress |
 |:--|:--|:--|
-| 🔢 &nbsp; **DSA** | Arrays, Trees, Graphs, Dynamic Programming | `████████░░` Active |
-| 🌐 &nbsp; **MERN** | MongoDB · Express · React · Node.js | `██████░░░░` In Progress |
-| 🤖 &nbsp; **LLMs** | Prompt Engineering · RAG · Fine-tuning concepts | `████░░░░░░` Exploring |
+| 🔢 &nbsp; **DSA** | Arrays, Trees, Graphs, Dynamic Programming
+| 🌐 &nbsp; **MERN** | MongoDB · Express · React · Node.js 
+| 🤖 &nbsp; **LLMs** | Prompt Engineering · RAG · Fine-tuning concepts
 
 </div>
 
