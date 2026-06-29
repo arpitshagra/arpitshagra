@@ -150,7 +150,7 @@ IntervIQ conducts **realistic, recruiter-like interviews** using conversational 
 
 ![Type](https://img.shields.io/badge/Type-AI%20Product-10B981?style=flat-square&labelColor=1e1e2e)
 
-![Stack](https://img.shields.io/badge/Stack-Python%20·%20LLMs%20·%20React-F59E0B?style=flat-square&labelColor=1e1e2e)
+![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20Flask%20%C2%B7%20Groq%20LLM%20%C2%B7%20Whisper%20%C2%B7%20JavaScript-F59E0B?style=flat-square&labelColor=1e1e2e)
 
 <br />
 
