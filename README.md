@@ -158,7 +158,7 @@ IntervIQ conducts **realistic, recruiter-like interviews** using conversational 
 
 <br />
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/a](https://github.com/arpitshagra/voice_interview_bot))
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voice_interview_bot)
 
 </td>
 </tr>
