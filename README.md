@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=720&height=42&lines=Building+AI-powered+products+that+solve+real+problems;Full+Stack+Developer+%7C+AI+%26+LLM+Enthusiast;B.Tech+CSE+(Honours)+%40+GLA+University;Shipping+real+software%2C+not+just+tutorials" alt="Typing subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=720&height=42&lines=Building+AI-powered+products+that+solve+real+problems;Full+Stack+Developer+%7C+AI+%26+LLM+Enthusiast;B.Tech+CSE+(Honors)+%40+GLA+University;Shipping+real+software%2C+not+just+tutorials" alt="Typing subtitle" />
 
 <br /><br />
 
@@ -48,7 +48,7 @@
 
 ## &nbsp;✦ &nbsp;About
 
-I'm a **B.Tech CSE (Honours)** student specializing in **AI & Analytics** at GLA University.
+I'm a **B.Tech CSE (Honors)** student specializing in **AI & Analytics** at GLA University.
 
 I don't build tutorial projects — I build **real things**. I've shipped production websites for actual businesses and managed everything from frontend to deployment. Now I'm working on something bigger: an AI-powered product that changes how people prepare for interviews.
 
@@ -58,7 +58,7 @@ When I'm not writing code, I'm thinking about systems design, language models, a
 
 | &nbsp; | &nbsp; |
 |:--|:--|
-| 🎓 &nbsp; **Degree** | B.Tech CSE (Honours) in AI & Analytics · GLA University |
+| 🎓 &nbsp; **Degree** | B.Tech CSE (Honors) in AI & Analytics · GLA University |
 | 📍 &nbsp; **Based in** | Agra, India |
 | 🔭 &nbsp; **Building** | IntervIQ — an AI-powered interview platform |
 | 🌱 &nbsp; **Learning** | DSA · MERN Stack · Large Language Models |
@@ -272,34 +272,6 @@ Production sites delivered for real businesses — from first commit to live dep
 
 ---
 
-## &nbsp;✦ &nbsp;2026 Goals
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Ship**
-- 🚀 &nbsp; Launch IntervIQ to real users
-- 🌐 &nbsp; Build and ship a SaaS product end-to-end
-- 🤖 &nbsp; Deploy an LLM-powered feature in production
-- ⚙️ &nbsp; Build a scalable system with FastAPI + PostgreSQL
-
-</td>
-<td width="50%" valign="top">
-
-**Learn**
-- 📚 &nbsp; Reach confident DSA problem-solving
-- 🛠️ &nbsp; Complete MERN stack fluency
-- 🧠 &nbsp; Understand LLM internals and RAG pipelines
-- ☁️ &nbsp; Learn cloud deployment on AWS or GCP
-
-</td>
-</tr>
-</table>
-
-<br />
 
 ---
 
