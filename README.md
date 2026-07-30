@@ -211,42 +211,6 @@ Production sites delivered for real businesses — from first commit to live dep
 
 ---
 
-## ✦ GitHub Activity
-
-<br />
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://streak-stats.demolab.com?user=arpitshagra&theme=react&hide_border=true"
-/>
-
-<br /><br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/arpitshagra/arpitshagra/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-<br /><br />
-
-
-
-</div>
-
-<br />
-
 
 ## &nbsp;✦ &nbsp;Currently Learning
 
